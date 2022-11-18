@@ -1,0 +1,21 @@
+@font-face {
+  font-family: 'Open Sans';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("./fonts/open-sans-v34-latin-regular.eot") format("embedded-opentype"), url("./fonts/open-sans-v34-latin-regular.woff2") format("woff2"), url("./fonts/open-sans-v34-latin-regular.woff") format("woff"), url("./fonts/open-sans-v34-latin-regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: 'Satoshi';
+  font-style: normal;
+  font-weight: 400;
+  src: local(""), url("./fonts/Satoshi-Regular.woff2") format("woff2"), url("./fonts/Satoshi-Regular.woff") format("woff");
+}
+
+@font-face {
+  font-family: 'Satoshi-Bold';
+  font-style: normal;
+  font-weight: 700;
+  src: local(""), url("./fonts/Satoshi-Bold.woff2") format("woff2"), url("./fonts/Satoshi-Bold.woff") format("woff");
+}
+/*# sourceMappingURL=fonts.css.map */
